@@ -1,0 +1,35 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0px;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 0px;
+  background-color: white;
+}
+
+.content {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 50vw;
+  height: 40vh;
+}
+
+.content p {
+  text-align: center;
+  font-size: 35px;
+  background-color: #66f;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  -webkit-transition: all 800ms ease;
+  transition: all 800ms ease;
+}
+
+.content p:hover {
+  background-color: #2424d1;
+}
+/*# sourceMappingURL=Credits.css.map */
